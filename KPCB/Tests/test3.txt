@@ -1,0 +1,14 @@
+constructor 100
+set Suraj patil
+set Suraj pa
+set Suraj psdf
+delete Suraj
+delete Suraj
+set Suraj 234
+set Suraj sdf
+set Suraj 12312
+set Suraj final
+load
+get Suraj
+delete Suraj
+load

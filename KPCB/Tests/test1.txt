@@ -1,0 +1,9 @@
+constructor 5
+set Suraj 1994
+set Patil Lname
+set Satish Fname
+load
+delete
+load
+delete Suraj
+load
